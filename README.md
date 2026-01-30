@@ -1,7 +1,6 @@
 # Resume – Single Page HTML
 
-A simple, clean **single-page resume website** built using **HTML and CSS**.  
-This project is designed for easy viewing, customization, and deployment on GitHub Pages.
+A simple, clean **single-page resume website** built using **HTML**.  
 
 ---
 
@@ -17,8 +16,7 @@ This project is designed for easy viewing, customization, and deployment on GitH
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
+- HTML5    
 
 ---
 
@@ -26,10 +24,8 @@ This project is designed for easy viewing, customization, and deployment on GitH
 
 
 
-##  ├── index.html        
- ├── style.css         
- ├── assets/           
- └── README.md  
+##  ├── index.html           
+    └── README.md  
 
 ---
 
@@ -41,9 +37,9 @@ No installation required.
 1. Download or clone the repository
 2. Open `index.html` in any web browser
 
-### Method 2: Using VS Code (Recommended)
+### Method 2: Using VS Code
 1. Open the folder in VS Code
-2. (Optional) Install **Live Server**
+2. Install **Live Server** extension
 3. Right-click `index.html` → **Open with Live Server**
 
 ---
@@ -57,14 +53,10 @@ No installation required.
   - Experience
   - Projects
   - Contact information
-- Modify `style.css` to change:
-  - Colors
-  - Fonts
-  - Layout
 
 ---
 
-## 🌐 Deployment on GitHub Pages (Optional)
+## 🌐 Deployment on GitHub Pages
 
 1. Push the project to GitHub
 2. Go to **Settings → Pages**
@@ -74,9 +66,7 @@ No installation required.
 
 ---
 
-## 🖼️ Screenshots (Recommended)
-
-Add screenshots inside a `screenshots/` folder to improve evaluation.
+## 🖼️ Screenshots
 
 Example:
 
@@ -85,8 +75,6 @@ Example:
 ![](/home/ladhava/Pictures/screenshot-2026-01-30_18-51-49.png)
 
 ![](/home/ladhava/Pictures/screenshot-2026-01-30_18-52-09.png)
-
-Then reference them here:
 
 ---
 
